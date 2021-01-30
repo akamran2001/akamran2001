@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on iSyllabi - An automated assignment management for college students
-- 🌱 I’m currently learning Javascript, Web Technologies like React and mobile development with React Native. I want to learn more about AI and Machine Learning.
+- 🌱 I’m currently learning Javascript, web Technologies like React and mobile development with React Native. I want to learn more about AI and Machine Learning.
 - 📫 How to reach me: 
 - - Email akamran@colgate.edu. 
 - - Connect with me on LinkedIn: https://www.linkedin.com/in/ahmed-muyen-kamran
