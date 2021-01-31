@@ -7,7 +7,6 @@
 - - Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-muyen-kamran)
 - 😄 Pronouns: (He/Him)
 - ⚡ Hobbies: I love cycling and playing soccer
-- [imgur]: (https://i.imgur.com/Rm2BpU5.jpg)
 <!--
 **akamran2001/akamran2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
