@@ -2,11 +2,12 @@
 
 - 🔭 I’m currently working on iSyllabi - An automated assignment management for college students. Check us out at https://bit.ly/isyllabi
 - 🌱 I’m currently learning Javascript, web Technologies like React and mobile development with React Native. I want to learn more about AI and Machine Learning.
-- 📫 How to reach me: 
-- - Email akamran@colgate.edu. 
-- - Connect with me on LinkedIn: https://www.linkedin.com/in/ahmed-muyen-kamran
+- 📫 How to reach me:
+- - Email me at akamran@colgate.edu.
+- - Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-muyen-kamran)
 - 😄 Pronouns: (He/Him)
 - ⚡ Hobbies: I love cycling and playing soccer
+- [profile-picture]: https://www.github.com/akamran2001/akamran2001/images/akamran.jpg
 <!--
 **akamran2001/akamran2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
