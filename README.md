@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⚡ Check out My [Portfolio](https://www.akamran2001.github.io)
 - 🔭 I’m currently working on iSyllabi - An automated assignment management for college students. Check us out at https://bit.ly/isyllabi
 - 🌱 I’m currently learning Javascript, web Technologies like React and mobile development with React Native. I want to learn more about AI and Machine Learning.
 - 📫 How to reach me:
